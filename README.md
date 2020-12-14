@@ -1,4 +1,4 @@
-# 基于github action的京东自动化签到 for wanghong1109
+# 基于github action的京东自动化签到 for wh
 
 ## 介绍
 
